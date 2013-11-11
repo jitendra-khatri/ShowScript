@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system">
+	<name>Show Script</name>
+	<author>Jitendra Khatri</author>
+	<creationDate>Nov. 2013</creationDate>
+	<copyright></copyright>
+	<license></license>
+	<authorEmail>jkhatri6@gmail.com</authorEmail>
+	<authorUrl></authorUrl>
+	<version>1.0</version>
+	<description>This plugin is able to show your javascript on every page of your Front-end joomla site.</description>
+	<files>
+		<filename plugin="showscript">showscript.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
